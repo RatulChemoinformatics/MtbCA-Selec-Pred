@@ -322,12 +322,9 @@ with tab4:
   st.header('Dataset')
   st.write('''
     In our work, we retrieved a Mycobacterium tubaerculosis carbonic anhydrase (MtbCA1 and MtbCA2) dataset from the ChEMBL database. The data was curated and resulted in a non-redundant set of 124 and 42 MtbCA1 and MtbCA2 inhibitors respectively, which can be divided into:
-    - 66 active compounds against MtbCA1
-    - 17 inactive compounds against MtbCA1
-    - 41 intermediate compounds against MtbCA1
-      20 active compounds against MtbCA2
-      16 inactive compounds against MtbCA2
-       6 intermediate compounds against MtbCA2
+    - 66 and 20 active compounds against MtbCA1 and MtbCA2 respectively
+    - 17 and 16 inactive compounds against MtbCA1 and MtbCA2 respectively
+    - 41 and 6 intermediate compounds against MtbCA1 and MtbCA2 respectively
     ''')
 with tab5:
   st.header('Model performance')
