@@ -313,7 +313,7 @@ if selected == 'MtbCA2 prediction model using 1D and 2D molecular descriptors':
             
             
 with tab2:
-  coverimage = Image.open('Logo.png')
+  coverimage = Image.open('Logo.tif')
   st.image(coverimage)
 with tab3:
   st.header('What are MtbCAs?')
