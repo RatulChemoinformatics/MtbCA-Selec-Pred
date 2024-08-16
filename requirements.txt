@@ -1,9 +1,9 @@
-pandas
+pandas==1.2.5
 Pillow
 base58
 click
-numpy
+numpy==1.23.2
 pickle-mixin
-streamlit
+streamlit==1.12.0
 streamlit-option-menu
-scikit-learn==1.2.2
+scikit-learn==1.0.2
