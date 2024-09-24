@@ -341,4 +341,4 @@ with tab6:
 with tab7:
   st.markdown('Aspatwar A, Kairys V, Rala S, Parikka M, Bozdag M, Carta F, Supuran CT, Parkkila S. Mycobacterium tuberculosis β-carbonic anhydrases: Novel targets for developing antituberculosis drugs. ***International Journal of Molecular Sciences***. DOI: https://doi.org/10.3390/ijms20205153.')
 with tab8:
-  st.markdown('Ratul Bhowmik, Ajay Manaithiya, Dr. Ashok Aspatwar. [***Infectious Disease Lab, Faculty of Medicine and Health Technology, Tampere University, Finland***] ')
+  st.markdown('Ratul Bhowmik, Ajay Manaithiya, Rajarshi Ray, Dr. Seppo Parkkila, Dr. Ashok Aspatwar. [***Infectious Disease Lab, Faculty of Medicine and Health Technology, Tampere University, Finland***] ')
